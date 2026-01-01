@@ -1,0 +1,5 @@
+pip install pystray Pillow
+pip install bip-utils
+pip install requests[socks]
+pip install mnemonic
+pip install stem
