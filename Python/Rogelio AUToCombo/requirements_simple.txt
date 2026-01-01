@@ -1,0 +1,7 @@
+# Versão simplificada das dependências - mais estável
+# Instale com: pip install -r requirements_simple.txt
+
+pyautogui
+keyboard
+Pillow
+pywin32

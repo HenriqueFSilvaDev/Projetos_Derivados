@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\bin\Debug\net9.0\ArrayTeste.exe
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\bin\Debug\net9.0\ArrayTeste.deps.json
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\bin\Debug\net9.0\ArrayTeste.runtimeconfig.json
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\bin\Debug\net9.0\ArrayTeste.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\bin\Debug\net9.0\ArrayTeste.pdb
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\obj\Debug\net9.0\ArrayTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\obj\Debug\net9.0\ArrayTeste.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\obj\Debug\net9.0\ArrayTeste.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\obj\Debug\net9.0\ArrayTeste.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\obj\Debug\net9.0\ArrayTeste.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\obj\Debug\net9.0\refint\ArrayTeste.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\obj\Debug\net9.0\ArrayTeste.pdb
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\obj\Debug\net9.0\ArrayTeste.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ArrayProject\ArrayTeste\obj\Debug\net9.0\ref\ArrayTeste.dll

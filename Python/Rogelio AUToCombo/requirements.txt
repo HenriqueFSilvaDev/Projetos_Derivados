@@ -1,0 +1,26 @@
+# Bibliotecas necessárias para o Combo Runa Python
+# Instale com: pip install -r requirements.txt
+
+# Para automação de mouse e teclado
+pyautogui>=0.9.50
+
+# Para captura de teclas (hotkeys)
+keyboard>=0.13.0
+
+# Para manipulação de imagens e captura de pixels
+Pillow>=9.0.0
+
+# Para funcionalidades do Windows (opcional, mas recomendado)
+pywin32>=300
+
+# Para interface gráfica (já incluída no Python padrão)
+# tkinter - não precisa instalar, já vem com Python
+
+# Para configuração INI (já incluída no Python padrão)
+# configparser - não precisa instalar, já vem com Python
+
+# Para threading (já incluída no Python padrão)
+# threading - não precisa instalar, já vem com Python
+
+# Para operações de sistema (já incluída no Python padrão)
+# os, sys, time, random - não precisam instalar, já vêm com Python

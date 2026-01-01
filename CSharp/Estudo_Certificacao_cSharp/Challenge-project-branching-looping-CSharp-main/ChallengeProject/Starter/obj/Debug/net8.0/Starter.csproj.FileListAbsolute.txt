@@ -1,0 +1,14 @@
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+c:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll

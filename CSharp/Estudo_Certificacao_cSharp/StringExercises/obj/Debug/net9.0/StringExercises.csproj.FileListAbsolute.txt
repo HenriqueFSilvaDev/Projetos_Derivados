@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\bin\Debug\net9.0\StringExercises.exe
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\bin\Debug\net9.0\StringExercises.deps.json
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\bin\Debug\net9.0\StringExercises.runtimeconfig.json
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\bin\Debug\net9.0\StringExercises.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\bin\Debug\net9.0\StringExercises.pdb
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\obj\Debug\net9.0\StringExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\obj\Debug\net9.0\StringExercises.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\obj\Debug\net9.0\StringExercises.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\obj\Debug\net9.0\StringExercises.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\obj\Debug\net9.0\StringExercises.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\obj\Debug\net9.0\refint\StringExercises.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\obj\Debug\net9.0\StringExercises.pdb
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\obj\Debug\net9.0\StringExercises.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\StringExercises\obj\Debug\net9.0\ref\StringExercises.dll

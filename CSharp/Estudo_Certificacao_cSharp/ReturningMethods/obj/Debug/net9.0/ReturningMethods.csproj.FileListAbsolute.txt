@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\bin\Debug\net9.0\ReturningMethods.exe
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\bin\Debug\net9.0\ReturningMethods.deps.json
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\bin\Debug\net9.0\ReturningMethods.runtimeconfig.json
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\bin\Debug\net9.0\ReturningMethods.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\bin\Debug\net9.0\ReturningMethods.pdb
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\obj\Debug\net9.0\ReturningMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\obj\Debug\net9.0\ReturningMethods.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\obj\Debug\net9.0\ReturningMethods.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\obj\Debug\net9.0\ReturningMethods.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\obj\Debug\net9.0\ReturningMethods.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\obj\Debug\net9.0\refint\ReturningMethods.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\obj\Debug\net9.0\ReturningMethods.pdb
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\obj\Debug\net9.0\ReturningMethods.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\ReturningMethods\obj\Debug\net9.0\ref\ReturningMethods.dll

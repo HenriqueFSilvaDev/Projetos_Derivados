@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\bin\Debug\net9.0\VariableData.exe
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\bin\Debug\net9.0\VariableData.deps.json
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\bin\Debug\net9.0\VariableData.runtimeconfig.json
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\bin\Debug\net9.0\VariableData.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\bin\Debug\net9.0\VariableData.pdb
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\obj\Debug\net9.0\VariableData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\obj\Debug\net9.0\VariableData.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\obj\Debug\net9.0\VariableData.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\obj\Debug\net9.0\VariableData.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\obj\Debug\net9.0\VariableData.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\obj\Debug\net9.0\refint\VariableData.dll
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\obj\Debug\net9.0\VariableData.pdb
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\obj\Debug\net9.0\VariableData.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Estudo_Certificacao_cSharp\VariableData\obj\Debug\net9.0\ref\VariableData.dll

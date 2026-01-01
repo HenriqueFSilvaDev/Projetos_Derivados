@@ -1,0 +1,21 @@
+# Dependências para Color Validator
+# Instale com: pip install -r requirements.txt
+
+# Interface gráfica (já incluída no Python)
+# tkinter
+
+# Windows API para captura de baixo nível
+pywin32>=306
+
+# Processamento de imagem
+Pillow>=9.0.0
+numpy>=1.21.0
+
+# Detecção de teclas
+keyboard>=0.13.5
+
+# Gerenciamento de processos
+psutil>=5.8.0
+
+# Sons do sistema (Windows)
+# winsound (já incluída no Python)
