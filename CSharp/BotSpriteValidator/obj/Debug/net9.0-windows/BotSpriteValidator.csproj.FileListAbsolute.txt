@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\BotSpriteValidator\bin\Debug\net9.0-windows\BotSpriteValidator.exe
+C:\Users\Pichau\Desktop\BotSpriteValidator\bin\Debug\net9.0-windows\BotSpriteValidator.deps.json
+C:\Users\Pichau\Desktop\BotSpriteValidator\bin\Debug\net9.0-windows\BotSpriteValidator.runtimeconfig.json
+C:\Users\Pichau\Desktop\BotSpriteValidator\bin\Debug\net9.0-windows\BotSpriteValidator.dll
+C:\Users\Pichau\Desktop\BotSpriteValidator\bin\Debug\net9.0-windows\BotSpriteValidator.pdb
+C:\Users\Pichau\Desktop\BotSpriteValidator\obj\Debug\net9.0-windows\BotSpriteValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\BotSpriteValidator\obj\Debug\net9.0-windows\BotSpriteValidator.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\BotSpriteValidator\obj\Debug\net9.0-windows\BotSpriteValidator.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\BotSpriteValidator\obj\Debug\net9.0-windows\BotSpriteValidator.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\BotSpriteValidator\obj\Debug\net9.0-windows\BotSpriteValidator.dll
+C:\Users\Pichau\Desktop\BotSpriteValidator\obj\Debug\net9.0-windows\refint\BotSpriteValidator.dll
+C:\Users\Pichau\Desktop\BotSpriteValidator\obj\Debug\net9.0-windows\BotSpriteValidator.pdb
+C:\Users\Pichau\Desktop\BotSpriteValidator\obj\Debug\net9.0-windows\BotSpriteValidator.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\BotSpriteValidator\obj\Debug\net9.0-windows\ref\BotSpriteValidator.dll

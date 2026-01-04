@@ -18,7 +18,7 @@ import pystray
 from PIL import Image, ImageDraw
 
 # --- CONFIGURAÇÕES DE AMBIENTE ---
-FOLDER_PATH = r"C:\Users\Pichau\Desktop\ServerCoin"
+FOLDER_PATH = r"C:\Users\Pichau\Desktop\ProjetosDerivados\Python\ServerCoin"
 DB_NAME = os.path.join(FOLDER_PATH, "msr_hunter.db")
 
 # GLOBAIS DE CONTROLE
